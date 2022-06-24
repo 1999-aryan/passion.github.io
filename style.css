@@ -104,7 +104,7 @@ body{
     background-image: url('about.PNG.jpg');
     background-size: 100%;
     padding-top: 4rem;
-   padding-bottom: 50rem;
+      padding-bottom: 85rem;
   
     
 }
@@ -112,11 +112,11 @@ body{
 @media (min-width: 200px) and (max-width: 998px){
 
     .about-pic {
-        height: 100rem;
+        height: 1000rem;
         background-image: url('about.PNG.jpg');
         background-size: 100%;
         padding-top: 4rem;
-        
+        padding-bottom: 200rem;
     
         
     }
