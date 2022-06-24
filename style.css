@@ -103,7 +103,9 @@ body{
     height: 750px;
     background-image: url('about.PNG.jpg');
     background-size: 100%;
-    padding-top: 4rem;
+   padding-top: 4rem;
+   padding-bottom: 50rem;
+  
   
     
 }
