@@ -73,7 +73,7 @@ body{
     padding-bottom: 8rem;
     width: 12rem;
     border-radius: 2%;
-    margin-left: 14rem;
+    margin-left: 10rem;
 }
 
 @media (min-width: 200px) and (max-width: 998px){
@@ -92,7 +92,7 @@ body{
 
 .testimonial-b{
     margin-bottom: 7rem;
-    margin-left: 10rem;
+    margin-left: 7rem;
 }
 
 .last-div{
