@@ -78,7 +78,7 @@ body{
 
 @media (min-width: 200px) and (max-width: 998px){
     .t-image{
-    padding-bottom: 5rem;
+    padding-bottom: 6rem;
     width: 12rem;
     border-radius: 2%;
     margin-left: 4rem;
