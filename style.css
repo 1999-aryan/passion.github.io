@@ -1,0 +1,144 @@
+body{
+    background-color: black;
+}
+
+/* class area */
+.navbar-brand{
+    font-family: 'Rubik Moonrocks', cursive;
+}
+
+.first-H{
+    background-image: url('bilal-dYzmjy2H_ws-unsplash.jpg');
+    height: 60rem;
+    background-size: 100%;
+}
+
+@media (min-width: 200px) and (max-width: 998px){
+    .first-H{   background-image: url('b.PNG');
+    height: 400px;
+    background-size: 100%;
+    }
+
+    
+}
+
+
+
+.hit-the{
+    padding-top:185px ;
+    font-size:60px;
+    color:white;
+    margin-left: 10px;
+    font-family: 'Pacifico', cursive;
+
+}
+.Beats{
+    font-size:65px;
+    margin-top: 15px;
+    color:white;
+    margin-left: 150px;
+    font-family: 'Rubik Moonrocks', cursive;
+
+}
+
+.dive-2{
+    height: 700px;
+    background-image: url('h.PNG.jpg');
+    background-size: 100%;
+    padding-top: 5%;
+    margin-top: 4rem ;
+    margin-bottom: 10rem;
+ 
+}
+
+.MUSIC{
+    font-size: 50px;
+    font-family: 'Smooch', cursive;
+}
+
+.first-p{
+    font-family: 'Pacifico', cursive;
+    padding-bottom: 5rem;
+}
+
+
+
+/* carousal part*/
+
+#testimonials{
+    padding-top: 2rem;
+    background-color: dimgray;
+}
+.t-image{
+    padding-bottom: 8rem;
+    width: 12rem;
+    border-radius: 2%;
+    margin-left: 17rem;
+}
+
+@media (min-width: 200px) and (max-width: 998px){
+    .t-image{
+    padding-bottom: 8rem;
+    width: 12rem;
+    border-radius: 2%;
+    margin-left: 10rem;
+    }
+}
+
+.carousal-h{
+    padding-bottom: 2rem;
+    margin-top: 2rem;
+}
+
+.testimonial-b{
+    margin-bottom: 7rem;
+    margin-left: 12rem;
+}
+
+.last-div{
+    padding-top: 2rem;
+}
+
+.about-pic{
+    height: 750px;
+    background-image: url('about.PNG.jpg');
+    background-size: 100%;
+    padding-top: 4rem;
+  
+    
+}
+
+@media (min-width: 200px) and (max-width: 998px){
+
+    .about-pic {
+        height: 76rem;
+        background-image: url('about.PNG.jpg');
+        background-size: 100%;
+        padding-top: 4rem;
+      
+        
+    }
+    
+}
+
+
+.h-A{
+    
+    font-size:3rem;
+    text-align: center;
+    font-family: 'Rubik Moonrocks', cursive;
+    color: white ;
+    }
+
+.A-h{
+    font-family: 'Smooch', cursive;
+    color: white ;
+}
+
+.A-p{
+    
+    font-family: 'Pacifico', cursive;
+    color: white ;
+    font-size: 24px;
+   
+} 
